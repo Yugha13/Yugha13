@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to yugha World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -105,7 +105,7 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=yugha&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugha/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=yugha&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugha/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=yugha&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugha/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=yugha&repo=yugha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugha/yugha)
+[![yugha Readme](https://github-readme-stats.vercel.app/api/pin/?username=yugha&repo=yugha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugha/yugha)
 
 <p align="left">
   <a href="https://github.com/yugha?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -123,7 +123,7 @@
 
 <p align="center">
   <a href="https://github.com/yugha">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugha&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugha&theme=radical" alt="yugha's GitHub Contribution"/>
   </a>
 </p>
 
