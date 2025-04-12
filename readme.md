@@ -1,99 +1,115 @@
-<!--
-<h2 align="center">
-  Welcome to yugha World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+<div align="center">
 
-<!--
-<p align="center">
-  <a href="https://github.com/yugha"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+  <!-- Hero Section -->
+  <img src="https://images.pexels.com/photos/2740956/pexels-photo-2740956.jpeg?cs=srgb&dl=pexels-prateekkatyal-2740956.jpg&fm=jpg" alt="Hero Background" style="border-radius: 10px; width: 100%; max-height: 300px; object-fit: cover;">
 
- -->
+  <br>
 
+  <h1>Hello World! 🚀</h1>
+  <h3>Welcome to My Profile</h3>
+  <h3>I'm Yugha13 - Full-Stack Developer & Open Source Contributor</h3>
 
+  <!-- Contact Badges -->
+  <a href="https://www.linkedin.com/in/yugha13" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:syugha1305@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://www.yugha.in/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
+  </a>
+</div>
 
+---
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://yugha.in">Yugha</a></b>
-        </samp>
-</h3>
+## 😎 About Me:
 
+I am **Yugha13**, a **Full-Stack Developer** and **Open-Source Contributor** passionate about creating impactful solutions through technology. 🚀 Here's more about me:
 
-<p align="center"> 
-  <samp>
-    <a href="https://yugha.in">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from LPU college」
-    <br>
-    <br>
-  </samp>
-</p>
+- 🔥 **Tech Enthusiast** with expertise in **React Native**, **TypeScript**, and **UI/UX Design**.  
+- 🌟 **Goal-Oriented Learner**: I strive to learn something new every day.  
+- 💻 **Current Focus**: Building scalable applications and contributing to open-source projects.  
+- 🎬 **Fun Fact**: I binge-watch sci-fi movies while coding!  
 
-<p align="center">
- 
- <a href="https://linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yugha"/>
- </a>
- <!-- <a href="https://dev.to/yugha" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="yugha" />
- </a> -->
- <a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_yugha" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="yugha" />
- </a> 
+---
 
-</p>
-<br />
+## 🛠️ My Toolbox:
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+### **Languages:**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+
+### **Frameworks & Libraries:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square)
+
+### **Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+---
+
+## 📈 GitHub Stats & Activity:
+
+<div align="center">
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: syugha1305@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/yugha13/yugha13/issues)
+![Yugha13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yugha13&show_icons=true&theme=radical&hide_border=true)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugha13&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</div>
+
+---
+
+## 🌟 Recent Projects:
+
+### 🚀 [Project 1: Portfolio Website](https://github.com/Yugha13/portfolio)
+- **Tech Stack**: React, TypeScript, Tailwind CSS  
+- **Description**: A responsive portfolio website showcasing my work, skills, and achievements.
+
+### 🌐 [Project 2: E-Commerce App](https://github.com/Yugha13/e-commerce-app)
+- **Tech Stack**: React Native, Node.js, Express, MongoDB  
+- **Description**: A cross-platform e-commerce application with real-time cart updates and secure payments.
+
+### 📱 [Project 3: Fitness Tracker](https://github.com/Yugha13/fitness-tracker)
+- **Tech Stack**: React Native, Firebase  
+- **Description**: A mobile app to track fitness activities, set goals, and monitor progress.
+
+---
+
+## 📂 Skill Proficiency:
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yugha13&theme=radical" alt="Repos Per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yugha13&theme=radical" alt="Most Commit Language">
+</div>
+
+---
+
+## 🌐 Get in Touch:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yugha13" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:syugha1305@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://www.yugha.in/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
+  </a>
 </p>
 
-<br/>
-<br/>
-<br/>
+---
 
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-## Top Open Source -
-
-<p align="left">
-  <a href="https://github.com/yugha13?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<h2 align="center">🎉 Thanks for stopping by! Let's build something awesome together! 🚀</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Animated Rocket">
 </p>
-
-<br/>
-<hr/>
-<br/>
-
