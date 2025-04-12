@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=yugha">
-  <img align="right" src="https://komarev.com/ghpvc/?username=yugha&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="">
+  <img align="right" src="" alt="Profile visitor" />
 </a>
 
 
@@ -21,14 +21,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://yugha.com">Yugha</a></b>
+                <b><a target="_blank" href="https://yugha.in">Yugha</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="">「 Google Me 」</a>
+    <a href="https://yugha.in">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from LPU college」
     <br>
