@@ -35,7 +35,7 @@
 
 <p align="center">
  <a href="" target="blank">
-  <img src="https://yugha.in" alt="yugha" />
+  <img src="https://img.shields.io/badge/yugha.in" alt="yugha" />
  </a>
  <a href="https://linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yugha"/>
