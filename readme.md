@@ -7,7 +7,7 @@
 
   <h1>Hello World! 🚀</h1>
   <h3>Welcome to My Profile</h3>
-  <h3>I'm Yugha13 - Full-Stack Developer & Open Source Contributor</h3>
+  <h3>I'm Yugha - Full-Stack Developer & Open Source Contributor</h3>
 
   <!-- Contact Badges -->
   <a href="https://www.linkedin.com/in/yugha13" target="_blank">
