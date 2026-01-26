@@ -25,11 +25,11 @@
 
 ## 😎 About Me:
 
-I am **Yugha13**, a **Full-Stack Developer** and **Open-Source Contributor** passionate about creating impactful solutions through technology. 🚀 Here's more about me:
+I am **Yugha13**, a **Full-Stack Developer**, creating impactful solutions through technology. 🚀 Here's more about me:
 
 - 🔥 **Tech Enthusiast** with expertise in **React Native**, **TypeScript**, and **UI/UX Design**.  
 - 🌟 **Goal-Oriented Learner**: I strive to learn something new every day.  
-- 💻 **Current Focus**: Building scalable applications and contributing to open-source projects.  
+- 💻 **Current Focus**: Building scalable applications.  
 - 🎬 **Fun Fact**: I binge-watch sci-fi movies while coding!  
 
 ---
@@ -54,33 +54,6 @@ I am **Yugha13**, a **Full-Stack Developer** and **Open-Source Contributor** pas
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
----
-
-## 📈 GitHub Stats & Activity:
-
-<div align="center">
-  
-![Yugha13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yugha13&show_icons=true&theme=radical&hide_border=true)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugha13&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
----
-
-## 🌟 Recent Projects:
-
-### 🚀 [Project 1: Portfolio Website](https://github.com/Yugha13/portfolio)
-- **Tech Stack**: React, TypeScript, Tailwind CSS  
-- **Description**: A responsive portfolio website showcasing my work, skills, and achievements.
-
-### 🌐 [Project 2: E-Commerce App](https://github.com/Yugha13/e-commerce-app)
-- **Tech Stack**: React Native, Node.js, Express, MongoDB  
-- **Description**: A cross-platform e-commerce application with real-time cart updates and secure payments.
-
-### 📱 [Project 3: Fitness Tracker](https://github.com/Yugha13/fitness-tracker)
-- **Tech Stack**: React Native, Firebase  
-- **Description**: A mobile app to track fitness activities, set goals, and monitor progress.
 
 ---
 
