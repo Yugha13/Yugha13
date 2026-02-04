@@ -1,4 +1,3 @@
----
 <h1 align="center">👋 Hey there! I'm Yugha</h1>
 
 <p align="center">
