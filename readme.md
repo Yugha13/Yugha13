@@ -5,110 +5,103 @@
 </p>
 
 ---
-
-## 👋 About This Project
-
-This README features an **automated Space Shooter game** that visualizes my GitHub contribution graph! The game updates automatically every day using GitHub Actions.
-
-- 🎮 **Contribution-based gameplay**: Each square in my GitHub activity becomes an enemy
-- ⚡ **Auto-updating**: The game regenerates daily with my latest contributions
-- 🎨 **Dynamic strategies**: Uses random attack patterns for variety
-
----
-
-## 🛠️ How It Works
-
-This project uses the [`gh-space-shooter`](https://github.com/czl9707/gh-space-shooter) GitHub Action to:
-1. Fetch my GitHub contribution data
-2. Generate an epic space shooter animation
-3. Automatically commit the updated GIF to this repo
-
-The workflow runs daily at midnight UTC and can also be triggered manually.
-
----
-
-## 🎯 Want Your Own?
-
-Follow these simple steps to add this to your GitHub profile:
-
-### Step 1: Create a Repository
-- Create a new repository named **`<your-username>`** (same as your GitHub username)
-- Make it **PUBLIC**
-- Initialize with a `README.md`
-
-### Step 2: Create Workflow File
-Create `.github/workflows/space-shooter.yml`:
-
-```yaml
-name: Update Space Shooter GIF
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      
-      - name: Create assets directory
-        run: mkdir -p assets
-      
-      - uses: czl9707/gh-space-shooter@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: assets/space-shooter.gif
-          strategy: random
-```
-
-### Step 3: Update Your README
-Add this to your `README.md`:
-
-```markdown
-# 🚀 My GitHub Activity Game
+<h1 align="center">👋 Hey there! I'm Yugha</h1>
 
 <p align="center">
-  <img src="assets/space-shooter.gif" />
+  <strong>🚀 Crafting Digital Experiences | 💡 Turning Ideas into Reality</strong>
 </p>
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Activity Visualized" />
+</p>
+
+---
+
+## ⚡ About Me
+
+I'm a **full-stack creator** who breathes life into ideas through code. Whether it's a slick website, a powerful mobile app, or enterprise-grade software—**I build it all**.
+
+```javascript
+const yugha = {
+  code: ["JavaScript", "TypeScript", "Python", "Java", "Dart"],
+  craft: ["Websites", "Mobile Apps", "Desktop Software", "APIs"],
+  tools: ["React", "Next.js", "React Native", "Node.js", "Flutter"],
+  mindset: "Build fast. Ship faster. Iterate always.",
+  currentlyObsessedWith: "Creating pixel-perfect UIs that users love ✨"
+};
 ```
 
-### Step 4: Run the Workflow
-- Go to **Actions** tab in your repo
-- Click **Update Space Shooter GIF**
-- Click **Run workflow**
-- Wait for it to complete!
+### 🎯 What I Do
 
-### Step 5: Verify
-The workflow will automatically create `assets/space-shooter.gif` and your game will appear on your profile!
+- **🌐 Web Development** – From stunning landing pages to complex web applications, I create experiences that captivate and convert
+- **📱 Mobile Apps** – Native-feeling cross-platform apps that work seamlessly on iOS and Android
+- **💻 Software Solutions** – Custom tools and automation that solve real problems and boost productivity
+- **🎨 UI/UX Magic** – I don't just make things work—I make them beautiful, intuitive, and delightful to use
 
 ---
 
-## 🔗 Original Project
+## 🔥 My Approach
 
-This uses the awesome [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) project.
+I believe in **clean code**, **modern design**, and **user-first thinking**. Every project is an opportunity to push boundaries and deliver something extraordinary.
 
-**Try it yourself:**
-- 🌐 [Web Interface](https://gh-space-shooter.kiyo-n-zane.com) - Generate instantly without setup
-- 📦 [PyPI Package](https://pypi.org/project/gh-space-shooter/) - Install with `pip install gh-space-shooter`
-- 🎮 [GitHub Action](https://github.com/marketplace/actions/github-space-shooter) - Automate on your profile
+> *"Great software doesn't just solve problems—it creates experiences people remember."*
+
+### 🛠️ Tech Arsenal
+
+**Frontend Wizardry**
+- React • Next.js • TypeScript • TailwindCSS • Framer Motion
+
+**Mobile Mastery**  
+- React Native • Flutter • Expo
+
+**Backend Power**
+- Node.js • Express • NestJS • GraphQL • REST APIs
+
+**Database & Cloud**
+- MongoDB • PostgreSQL • Firebase • Supabase
+
+**Dev & Deploy**
+- Git • Docker • CI/CD • Vercel • AWS
 
 ---
 
-## 📬 About the Author
+## 🎮 Fun Fact
 
-**Md Farid** – Web Developer | Open Source Enthusiast | Automation Lover
+That animated space shooter above? It's my GitHub contribution graph turned into a game! Every green square is an enemy conquered by my daily commits. **Code is my battleground. Commits are my victories.** 💪
 
-### Connect With Me:
+---
+
+## 🌟 Let's Build Something Amazing
+
+Whether you're looking to:
+- 🚀 Launch a startup with a killer MVP
+- 📱 Build the next viral mobile app
+- 🎨 Redesign your digital presence
+- ⚙️ Automate your workflow with custom tools
+
+**I'm your developer.** Let's turn your vision into reality.
+
+---
+
+## 📫 Get In Touch
+
+I'm always excited to collaborate on interesting projects or just chat about tech!
+
+- 💼 **Portfolio**: Coming soon... (building something epic!)
+- 📧 **Email**: Drop me a line—let's create magic together
 - 🐦 **X (Twitter)**: [@MdFarid7886](https://x.com/MdFarid7886)
-- 💼 **LinkedIn**: [md-farid-1aa563291](https://www.linkedin.com/in/md-farid-1aa563291/)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/md-farid-1aa563291/)
 
 ---
 
 <p align="center">
-  <i>If this helped you, feel free to share and tag me! ⭐</i>
+  <strong>💡 Currently available for freelance projects and collaborations</strong>
+</p>
+
+<p align="center">
+  <i>⭐ If you like what you see, feel free to star some repos and spread the word!</i>
+</p>
+
+<p align="center">
+  <sub>🎯 Built with passion, shipped with pride • © 2026 Yugha</sub>
 </p>
