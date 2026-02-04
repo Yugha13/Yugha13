@@ -1,86 +1,114 @@
-<div align="center">
-
-  <!-- Hero Section -->
-  <img src="https://images.pexels.com/photos/2740956/pexels-photo-2740956.jpeg?cs=srgb&dl=pexels-prateekkatyal-2740956.jpg&fm=jpg" alt="Hero Background" style="border-radius: 10px; width: 100%; max-height: 300px; object-fit: cover;">
-
-  <br>
-
-  <h1>Hello World! 🚀</h1>
-  <h3>Welcome to My Profile</h3>
-  <h3>I'm Yugha - Full-Stack Developer & Open Source Contributor</h3>
-
-  <!-- Contact Badges -->
-  <a href="https://www.linkedin.com/in/yugha13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:syugha1305@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://www.yugha.in/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
-  </a>
-</div>
-
----
-
-## 😎 About Me:
-
-I am **Yugha13**, a **Full-Stack Developer**, creating impactful solutions through technology. 🚀 Here's more about me:
-
-- 🔥 **Tech Enthusiast** with expertise in **React Native**, **TypeScript**, and **UI/UX Design**.  
-- 🌟 **Goal-Oriented Learner**: I strive to learn something new every day.  
-- 💻 **Current Focus**: Building scalable applications.  
-- 🎬 **Fun Fact**: I binge-watch sci-fi movies while coding!  
-
----
-
-## 🛠️ My Toolbox:
-
-### **Languages:**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-
-### **Frameworks & Libraries:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square)
-
-### **Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-
-
----
-
-## 📂 Skill Proficiency:
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yugha13&theme=radical" alt="Repos Per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yugha13&theme=radical" alt="Most Commit Language">
-</div>
-
----
-
-## 🌐 Get in Touch:
+# 🚀 My GitHub Activity Game
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yugha13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:syugha1305@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://www.yugha.in/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
-  </a>
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter Game" />
 </p>
 
 ---
 
-<h2 align="center">🎉 Thanks for stopping by! Let's build something awesome together! 🚀</h2>
+## 👋 About This Project
 
+This README features an **automated Space Shooter game** that visualizes my GitHub contribution graph! The game updates automatically every day using GitHub Actions.
+
+- 🎮 **Contribution-based gameplay**: Each square in my GitHub activity becomes an enemy
+- ⚡ **Auto-updating**: The game regenerates daily with my latest contributions
+- 🎨 **Dynamic strategies**: Uses random attack patterns for variety
+
+---
+
+## 🛠️ How It Works
+
+This project uses the [`gh-space-shooter`](https://github.com/czl9707/gh-space-shooter) GitHub Action to:
+1. Fetch my GitHub contribution data
+2. Generate an epic space shooter animation
+3. Automatically commit the updated GIF to this repo
+
+The workflow runs daily at midnight UTC and can also be triggered manually.
+
+---
+
+## 🎯 Want Your Own?
+
+Follow these simple steps to add this to your GitHub profile:
+
+### Step 1: Create a Repository
+- Create a new repository named **`<your-username>`** (same as your GitHub username)
+- Make it **PUBLIC**
+- Initialize with a `README.md`
+
+### Step 2: Create Workflow File
+Create `.github/workflows/space-shooter.yml`:
+
+```yaml
+name: Update Space Shooter GIF
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Create assets directory
+        run: mkdir -p assets
+      
+      - uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: assets/space-shooter.gif
+          strategy: random
+```
+
+### Step 3: Update Your README
+Add this to your `README.md`:
+
+```markdown
+# 🚀 My GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
+```
+
+### Step 4: Run the Workflow
+- Go to **Actions** tab in your repo
+- Click **Update Space Shooter GIF**
+- Click **Run workflow**
+- Wait for it to complete!
+
+### Step 5: Verify
+The workflow will automatically create `assets/space-shooter.gif` and your game will appear on your profile!
+
+---
+
+## 🔗 Original Project
+
+This uses the awesome [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) project.
+
+**Try it yourself:**
+- 🌐 [Web Interface](https://gh-space-shooter.kiyo-n-zane.com) - Generate instantly without setup
+- 📦 [PyPI Package](https://pypi.org/project/gh-space-shooter/) - Install with `pip install gh-space-shooter`
+- 🎮 [GitHub Action](https://github.com/marketplace/actions/github-space-shooter) - Automate on your profile
+
+---
+
+## 📬 About the Author
+
+**Md Farid** – Web Developer | Open Source Enthusiast | Automation Lover
+
+### Connect With Me:
+- 🐦 **X (Twitter)**: [@MdFarid7886](https://x.com/MdFarid7886)
+- 💼 **LinkedIn**: [md-farid-1aa563291](https://www.linkedin.com/in/md-farid-1aa563291/)
+
+---
+
+<p align="center">
+  <i>If this helped you, feel free to share and tag me! ⭐</i>
+</p>
