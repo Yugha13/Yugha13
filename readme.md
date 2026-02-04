@@ -82,8 +82,8 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 
 - 💼 **Portfolio**: Coming soon... (building something epic!)
 - 📧 **Email**: Drop me a line—let's create magic together
-- 🐦 **X (Twitter)**: [@MdFarid7886](https://x.com/MdFarid7886)
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/md-farid-1aa563291/)
+- 🐦 **Instagram (Twitter)**: [@Yugha13]
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yugha13/)
 
 ---
 
