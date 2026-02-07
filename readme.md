@@ -33,31 +33,6 @@ const yugha = {
 
 ---
 
-## 🔥 My Approach
-
-I believe in **clean code**, **modern design**, and **user-first thinking**. Every project is an opportunity to push boundaries and deliver something extraordinary.
-
-> *"Great software doesn't just solve problems—it creates experiences people remember."*
-
-### 🛠️ Tech Arsenal
-
-**Frontend Wizardry**
-- React • Next.js • TypeScript • TailwindCSS • Framer Motion
-
-**Mobile Mastery**  
-- React Native • Flutter • Expo
-
-**Backend Power**
-- Node.js • Express • NestJS • GraphQL • REST APIs
-
-**Database & Cloud**
-- MongoDB • PostgreSQL • Firebase • Supabase
-
-**Dev & Deploy**
-- Git • Docker • CI/CD • Vercel • AWS
-
----
-
 ## 🎮 Fun Fact
 
 That animated space shooter above? It's my GitHub contribution graph turned into a game! Every green square is an enemy conquered by my daily commits. **Code is my battleground. Commits are my victories.** 💪
