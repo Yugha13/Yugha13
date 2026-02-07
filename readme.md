@@ -51,17 +51,6 @@ Whether you're looking to:
 
 ---
 
-## 📫 Get In Touch
-
-I'm always excited to collaborate on interesting projects or just chat about tech!
-
-- 💼 **Portfolio**: Coming soon... (building something epic!)
-- 📧 **Email**: Drop me a line—let's create magic together
-- 🐦 **Instagram (Twitter)**: [@Yugha13]
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yugha13/)
-
----
-
 <p align="center">
   <strong>💡 Currently available for freelance projects and collaborations</strong>
 </p>
