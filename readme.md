@@ -24,14 +24,7 @@ const yugha = {
 };
 ```
 
-### 🎯 What I Do
 
-- **🌐 Web Development** – From stunning landing pages to complex web applications, I create experiences that captivate and convert
-- **📱 Mobile Apps** – Native-feeling cross-platform apps that work seamlessly on iOS and Android
-- **💻 Software Solutions** – Custom tools and automation that solve real problems and boost productivity
-- **🎨 UI/UX Magic** – I don't just make things work—I make them beautiful, intuitive, and delightful to use
-
----
 
 ## 🎮 Fun Fact
 
