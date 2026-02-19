@@ -24,17 +24,6 @@ const yugha = {
 };
 ```
 
-
-## 🌟 Let's Build Something Amazing
-
-Whether you're looking to:
-- 🚀 Launch a startup with a killer MVP
-- 📱 Build the next viral mobile app
-- 🎨 Redesign your digital presence
-- ⚙️ Automate your workflow with custom tools
-
-**I'm your developer.** Let's turn your vision into reality.
-
 ---
 
 <p align="center">
