@@ -25,13 +25,6 @@ const yugha = {
 ```
 
 
-
-## 🎮 Fun Fact
-
-That animated space shooter above? It's my GitHub contribution graph turned into a game! Every green square is an enemy conquered by my daily commits. **Code is my battleground. Commits are my victories.** 💪
-
----
-
 ## 🌟 Let's Build Something Amazing
 
 Whether you're looking to:
